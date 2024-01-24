@@ -1,4 +1,4 @@
-# Dog-breed-recognition
+# 🐶 Dog Breed Recognition
  A deep learning model that recognize between 120 dog breeds.
 
 ## Dataset
